@@ -8,6 +8,6 @@ Built using HTML, CSS and vanilla JavaScript only
 
 ### Visit Live Site
 
-This project is [deployed on GitHub Pages](https://makeitback.github.io/Chasing-the-dollar-game/) and incorporates the test script for freeCodeCamp (all tests passing!)
+This project is [deployed on GitHub Pages](https://makeitback.github.io/Chasing-the-dollar-game/)
 
----
+
